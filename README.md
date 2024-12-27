@@ -55,7 +55,6 @@ To run this project, you need to have Python 3 installed along with the followin
 pip install pandas numpy matplotlib seaborn scikit-learn torch
 ```
 <center>OR</center>
-
 1. You can use the text file to import the necessary libraries
 ```bash
 pip install -r requirements.txt
